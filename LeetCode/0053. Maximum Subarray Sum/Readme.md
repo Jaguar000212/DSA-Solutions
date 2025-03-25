@@ -1,4 +1,4 @@
-# [136. Maximum Subarray Sum](https://leetcode.com/problems/maximum-subarray/)
+# 53. [Maximum Subarray Sum](https://leetcode.com/problems/maximum-subarray/)
 ## Brute-Force
 > O(n<sup>2</sup>)
 - Calculated all the possible subarrays and then their sum, returned the max value.
