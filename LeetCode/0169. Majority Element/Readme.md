@@ -1,4 +1,4 @@
-# 1. [Majority Element](https://leetcode.com/problems/majority-element)
+# 169. [Majority Element](https://leetcode.com/problems/majority-element)
 
 ## Brute-Force
 > O(n²)
