@@ -1,4 +1,4 @@
-# [136. Single Number](https://leetcode.com/problems/single-number/)
+# 136. [Single Number](https://leetcode.com/problems/single-number/)
 > O(n)
 
 Used XOR to cancel out duplicates since `1 XOR 1 = 0` and `0 XOR 0 = 0`.  
