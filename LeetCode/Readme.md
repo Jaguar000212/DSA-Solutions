@@ -11,3 +11,4 @@
 |136|[Single Number](https://leetcode.com/problems/single-number/)| [C++](./0136.%20Single%20Number/solution.cpp)|Medium|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/) | [C++](./0169.%20Majority%20Element/solution3.cpp)|Easy|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)| [C++](./0238.%20Product%20of%20Array%20Except%20Self/solution.cpp)|Medium|
+|852|[Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)| [C++](./0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.cpp)|Medium|
