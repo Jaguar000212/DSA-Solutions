@@ -14,7 +14,7 @@ Return -1 if a valid assignment is not possible.
 
 ## Modified Binary Search
 
-> O(logn)
+> O(log(sum(pages)) * O(N))
 
 - First, we find our search space, which will be all possible solutions, regardless of the conditions provided, for
   allocation of pages to 1 student, i.e. from 0 to sum(pages).
@@ -24,3 +24,6 @@ Return -1 if a valid assignment is not possible.
 - If the middle value is valid, we'll store it as temporary answer and move to left to find out if there is any smaller,
   valid answer.
 - Final value of the temporary answer is returned.
+- To check if the current middle value is valid, we can iterate over the pages and keep track of the number of students used.
+- If the current student is unable to read the current book (pages > middle value), we can assign the next student to it.
+- If the number of students used exceeds M, we can return false.
