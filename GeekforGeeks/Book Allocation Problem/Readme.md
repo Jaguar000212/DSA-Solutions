@@ -1,4 +1,4 @@
-# Book Allocation Problem
+# [Book Allocation Problem](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1/)
 
 There are N books, each i'th book has pages[i] number of pages.
 
