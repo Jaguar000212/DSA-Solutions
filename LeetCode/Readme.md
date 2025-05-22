@@ -8,6 +8,7 @@
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                  | [C++](./0050.%20Pow(x%2C%20n)/solution.cpp)                               |Medium|
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                 | [C++](./0053.%20Maximum%20Subarray%20Sum/solution3.cpp)                   |Medium|
 | 75  | [Sort Colors](https://leetcode.com/problems/sort-colors/)                                           | [C++](./0075.%20Sort%20Colors/solution2.cpp)                              |Medium|
+| 88  | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)                                           | [C++](./0088.%20Merge%20Sorted%20Array/solution.cpp)                              |Easy|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)   | [C++](./0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/solution.cpp) |Medium|
 | 136 | [Single Number](https://leetcode.com/problems/single-number/)                                       | [C++](./0136.%20Single%20Number/solution.cpp)                             |Medium|
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                 | [C++](./0169.%20Majority%20Element/solution3.cpp)                         |Easy|
