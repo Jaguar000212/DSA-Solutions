@@ -4,6 +4,7 @@
 |-----|-----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------| ---------- |
 | 1   | [Two Sum](https://leetcode.com/problems/two-sum/)                                                   | [C++](./0001.%20Two%20Sum/solution2.cpp)                                  |Easy|
 | 11  | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)               | [C++](./0011.%20Container%20With%20Most%20Water/solution.cpp)             |Medium|
+| 31  | [Next Permutation](https://leetcode.com/problems/next-permutation/)     | [C++](./0031.%20Next%20Permutation/solution.cpp)      |Medium|
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)     | [C++](./0033.%20Search%20in%20Rotated%20Sorted%20Array/solution.cpp)      |Medium|
 | 50  | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                                  | [C++](./0050.%20Pow(x%2C%20n)/solution.cpp)                               |Medium|
 | 53  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                 | [C++](./0053.%20Maximum%20Subarray%20Sum/solution3.cpp)                   |Medium|
