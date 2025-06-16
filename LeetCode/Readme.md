@@ -17,3 +17,4 @@
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)         | [C++](./0238.%20Product%20of%20Array%20Except%20Self/solution.cpp)        | Medium     |
 | 540 | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [C++](./0540.%20Single%20Element%20in%20a%20Sorted%20Array/solution.cpp)  | Medium     |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)     | [C++](./0852.%20Peak%20Index%20in%20a%20Mountain%20Array/solution.cpp)    | Medium     |
+| 1910 | [Remove All Occurrences of a Substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/) | [C++](./1910.%20Remove%20All%20Occurrences%20of%20a%20Substring/solution.cpp) | Medium     |
